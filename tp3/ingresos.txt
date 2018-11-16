@@ -1,0 +1,21 @@
+K3114GTO;Juan Cesar Rodo;Gryffindor;1
+K3115GTO;Jorge Cessi;Gryffindor;1
+K3116GTO;Julio Velez;Gryffindor;1
+L5224GTO;Juan Cesar Rodo;Gryffindor;2
+L5225GTO;Jorge Cessi;Gryffindor;2
+L5226GTO;Julio Velez;Gryffindor;2
+T3334GTO;Juan Cesar Rodo;Gryffindor;3
+T3335GTO;Jorge Cessi;Gryffindor;3
+T3336GTO;Julio Velez;Gryffindor;3
+I6444GTO;Juan Cesar Rodo;Gryffindor;4
+I6445GTO;Jorge Cessi;Gryffindor;4
+I6446GTO;Julio Velez;Gryffindor;4
+A2554GTO;Juan Cesar Rodo;Gryffindor;5
+A2555GTO;Jorge Cessi;Gryffindor;5
+A2556GTO;Julio Velez;Gryffindor;5
+C2664GTO;Juan Cesar Rodo;Gryffindor;6
+C2665GTO;Jorge Cessi;Gryffindor;6
+C2666GTO;Julio Velez;Gryffindor;6
+B1774GTO;Juan Cesar Rodo;Gryffindor;7
+B1775GTO;Jorge Cessi;Gryffindor;7
+B1776GTO;Julio Velez;Gryffindor;7
